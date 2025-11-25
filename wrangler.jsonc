@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "fjo-worker",
+	"name": "cloudflare-json-worker",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-11-21",
 	"compatibility_flags": [
