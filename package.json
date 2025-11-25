@@ -1,6 +1,7 @@
 {
-	"name": "fjo-worker",
+	"name": "cloudflare-json-worker",
 	"version": "0.0.0",
+	"description": "A Cloudflare Worker that formats, validates, and minifies JSON",
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
